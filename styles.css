@@ -50,6 +50,14 @@ a:hover {
             /* border: 1px solid green; */
             color: #F9FAF8;
             font-size: 24px;
+            gap: 15px;
+        }
+
+        .eagle-img {
+            display: flex;
+            justify-content: flex-start;
+            max-width: 50px;
+            height: auto;
         }
 
         .header .right-links {
@@ -90,7 +98,7 @@ a:hover {
             display: flex;
             padding: 6px 20px 6px 20px;
             justify-content: center;
-            width: 100px;
+            width: 120px;
             border-radius: 6px;
             font-size: 14px;
             background-color: #3882F6;
@@ -184,7 +192,7 @@ a:hover {
     .quote-text-box {
         display: flex;
         flex-direction: column;
-        max-width: 1025px;
+        max-width: 1090px;
     }
 
     .third-section .quote-text {
