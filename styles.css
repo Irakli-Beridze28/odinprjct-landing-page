@@ -269,3 +269,16 @@ a:hover {
         background-color: #d4d7dd;
         transform: translateY(2px);
     }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    padding: 35px 120px 35px 120px;
+    margin-top: auto;
+}
+
+    .copyright-text {
+        display: flex;
+        color: #E5E7EB;
+    }
